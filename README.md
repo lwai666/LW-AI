@@ -65,11 +65,11 @@
 
 ### 1. 内置指令用法
 
-手机给自己发送内置指令，如 `/添加用户小仙女`， 即可让AI分身和 `小仙女` 聊天
+手机给自己发送内置指令
 
 <img src="https://github.com/lwai666/LW-AI/blob/main/resources/4.png?raw=true" alt="内置指令" width="200" height="auto" />
 
-手机给自己发送内置指令，如 `/添加用户小仙女`， 即可让AI分身和 `小仙女` 聊天
+如 `/添加用户小仙女`， 即可让AI分身和 `小仙女` 聊天
 
 
 <img src="https://github.com/lwai666/LW-AI/blob/main/resources/5.png?raw=true" alt="添加用户小仙女" width="300" height="auto" />
@@ -77,9 +77,11 @@
 <br>
 <br>
 
-### 2. 哈喽分身智能助手
+### 2. 哈喽分身唤起AI智能助手
 
-手机给自己发送 `哈喽分身请帮我添加小仙女用户进行聊天`， 即可让AI分身和 `小仙女` 聊天
+`哈喽分身` 类似 `小爱同学`, 手机给自己发送 `哈喽分身xxx` 唤起AI智能助手。
+
+如: `哈喽分身请帮我添加小仙女用户进行聊天`， 即可让AI分身和 `小仙女` 聊天
 
 
 <img src="https://github.com/lwai666/LW-AI/blob/main/resources/6.png?raw=true" alt="哈喽分身" width="300" height="auto" />
@@ -89,12 +91,12 @@
 
 ### 3. 自定义AI分身角色
 
-角色设定选择自定义，输入设定，点击重启启动机器人。
+角色设定选择自定义，输入设定，点击重启机器人。
 
 <img src="https://github.com/lwai666/LW-AI/blob/main/resources/7.png?raw=true" alt="哈喽分身" width="300" height="auto" />
 
 
-回答效果如下：
+之后即可使用对应AI设定聊天，回答效果如下：
 
 ![img](https://github.com/lwai666/LW-AI/blob/main/resources/8.png?raw=true)
 
@@ -103,7 +105,7 @@
 
 ### 4. 添加扣子智能体
 
-1.  创建 [扣子](https://www.coze.cn/) 智能体，获取 `智能体ID` 填入灵微AI
+1.  创建 [扣子](https://www.coze.cn/) 智能体，在网址的 `/bot/` 后面获取到 `智能体ID`  `7516443143593148451`
 
 ![img](https://github.com/lwai666/LW-AI/blob/main/resources/coze_1.png?raw=true)
 
@@ -111,17 +113,17 @@
 
 ![img](https://github.com/lwai666/LW-AI/blob/main/resources/coze_2.png?raw=true)
 
-3. 点击 扣子API -> 授权 -> 个人访问令牌 -> 添加新令牌，获取 `API密钥` 
+3. 生成API密钥，点击 扣子API -> 授权 -> 个人访问令牌 -> 添加新令牌，获取 `API密钥` 
 
 ![img](https://github.com/lwai666/LW-AI/blob/main/resources/coze_3.png?raw=true)
 
 
-4. `API密钥` 和 `智能体ID` 填入到灵微AI，重新开启机器人
+4. `API密钥` 和 `智能体ID` 填入到灵微AI，之后重新开启机器人
 
 ![img](https://github.com/lwai666/LW-AI/blob/main/resources/coze_4.png?raw=true)
 
 
-4. 接入扣子智能体对话效果
+4. 接入扣子智能体对话效果如下
 
 ![img](https://github.com/lwai666/LW-AI/blob/main/resources/coze_5.png?raw=true)
 
