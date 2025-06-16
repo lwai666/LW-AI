@@ -96,7 +96,7 @@
 
 回答效果如下：
 
-<img src="https://github.com/lwai666/LW-AI/blob/main/resources/8.png?raw=true" alt="哈喽分身" width="300" height="auto" />
+![img](https://github.com/lwai666/LW-AI/blob/main/resources/8.png?raw=true)
 
 <br>
 <br>
