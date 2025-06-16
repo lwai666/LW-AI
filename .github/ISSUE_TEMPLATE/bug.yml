@@ -1,0 +1,37 @@
+name: "\U0001F41E 灵微AI问题反馈"
+description: 欢迎提出你遇到的问题！
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **如果不是最新版本，请使用最新版本后看看有没有问题哦！**
+  - type: input
+    id: version1
+    attributes:
+      label: 灵微AI版本
+      placeholder: 1.6.9
+    validations:
+      required: true
+  - type: input
+    id: app1
+    attributes:
+      label: 微信PC端版本
+      description: |
+        请使用 3.9.12.51 版本的微信，目前测试能正常工作的微信PC端版本为 3.9.12.51...
+      placeholder: 3.9.12.51
+    validations:
+      required: true
+  - type: textarea
+    id: problem1
+    attributes:
+      label: 你遇到的问题是什么？
+      placeholder: 详细描述你遇到的问题
+    validations:
+      required: true
+  - type: textarea
+    id: problem2
+    attributes:
+      label: 你期望的结果是什么？
+      placeholder: 详细描述你期望的结果
+    validations:
+      required: true

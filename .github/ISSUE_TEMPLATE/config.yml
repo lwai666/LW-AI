@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 灵微AI最新版下载
+    url: https://github.com/lwai666/LW-AI/releases
+    about: 遇到问题，先看看版本是不是最新的，优先使用最新版！
+  - name: 灵微AI官方交流群
+    url: https://github.com/lwai666/LW-AI
+    about: 欢迎进群交流！
