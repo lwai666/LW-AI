@@ -74,6 +74,8 @@
 
 <img src="https://github.com/lwai666/LW-AI/blob/main/resources/5.png?raw=true" alt="添加用户小仙女" width="300" height="auto" />
 
+<br>
+<br>
 
 ### 2. 哈喽分身智能助手
 
@@ -82,9 +84,24 @@
 
 <img src="https://github.com/lwai666/LW-AI/blob/main/resources/6.png?raw=true" alt="哈喽分身" width="300" height="auto" />
 
+<br>
+<br>
+
+### 3. 自定义AI分身角色
+
+角色设定选择自定义，输入设定，点击重启启动机器人。
+
+<img src="https://github.com/lwai666/LW-AI/blob/main/resources/7.png?raw=true" alt="哈喽分身" width="300" height="auto" />
 
 
-### 3. 添加扣子智能体
+回答效果如下：
+
+<img src="https://github.com/lwai666/LW-AI/blob/main/resources/8.png?raw=true" alt="哈喽分身" width="300" height="auto" />
+
+<br>
+<br>
+
+### 4. 添加扣子智能体
 
 1.  创建 [扣子](https://www.coze.cn/) 智能体，获取 `智能体ID` 填入灵微AI
 
@@ -108,10 +125,10 @@
 
 ![img](https://github.com/lwai666/LW-AI/blob/main/resources/coze_5.png?raw=true)
 
+回答的和扣子测试的结果一模一样。
 
 ![img](https://github.com/lwai666/LW-AI/blob/main/resources/coze_6.png?raw=true)
 
-回答的和扣子测试的结果一模一样。
 
 <br>
 <br>
